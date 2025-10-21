@@ -6,4 +6,4 @@
 - [x] Add start screen: display instructions and wait for key press to start
 - [x] Add game over screen: display on collision, handle restart or quit
 - [x] Implement high score persistence: load/save to 'highscore.txt'
-- [x] Test enhancements: launch, start screen, gameplay, game over, high score
+- [x] Test enhancements: launch, start screen, gameplay, game over, high score that is more suitable 
