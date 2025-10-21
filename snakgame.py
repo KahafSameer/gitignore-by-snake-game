@@ -218,7 +218,7 @@ while True:
     # Check for head collision with the body segments
     for segment in segments:
         if segment.distance(head) < 20:
-            game_state = "game_over"
+            game_state = "game_over and you loss"
             save_high_score()
 
     time.sleep(delay)
